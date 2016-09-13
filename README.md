@@ -1,10 +1,8 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 # React Tutorial
-
-![Screenshot](screenshot.png)
-
 This is mostly the same as the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html). The main difference is that it's been modified to show the comment form at the top of the screen (instead of the bottom) and the list of previous comments are displayed in reverse order so the most recent comment appears at the top.
+
+<img src="https://github.com/mit-teaching-systems-lab/react-hello-world/blob/master/screenshot.png?raw=true" alt="Screenshot" width="500px"/>
+
 
 ## To use
 
